@@ -1,54 +1,45 @@
-# PlanejAI
+# PlanejAI - Construindo um Produto Digital com Agentes de IA e Lovable
+Projeto desenvolvido como desafio da DIO, utilizando **IA generativa** e **Lovable**.
 
-## 1 – A Escolha (Dor escolhida e por que ela vale um negócio)
+<img width="1582" height="761" alt="image" src="https://github.com/user-attachments/assets/dbebd287-b67e-4dba-a8bf-4008632c71b0" />
+
+## 1 – A Escolha (Dor escolhida e porque vale um negócio)
 
 ### Problema
 
-O mercado de concursos públicos é extremamente competitivo. Milhões de brasileiros estudam diariamente para conquistar estabilidade financeira e crescimento profissional.
+O mercado de concursos públicos é extremamente competitivo. Milhões de brasileiros estudam diariamente para conquistar estabilidade financeira e crescimento profissional. Porém, a maioria dos candidatos enfrenta algumas dificuldades:
 
-Entretanto, a maioria dos candidatos enfrenta um problema recorrente: não sabe exatamente como estudar.
-
-As principais dificuldades são:
-
-- Falta de tempo para montar um plano de estudos eficiente.
-- Dificuldade para definir prioridades entre disciplinas.
-- Rotina de trabalho que limita as horas disponíveis para estudo.
-- Sensação constante de não estar evoluindo.
-- Falta de clareza sobre o nível de preparação para a prova.
-- Excesso de conteúdos disponíveis na internet.
-
-Muitos concurseiros acabam gastando mais tempo organizando o estudo do que efetivamente estudando.
+- Falta de tempo para montar um plano de estudos eficiente
+- Dificuldade para definir prioridade
+- Rotina de trabalho que limita as horas disponíveis para estudo
+- Sensação de não estar evoluindo
+- Falta de clareza sobre o nível de preparação para a prova
+- Excesso de conteúdos disponíveis na internet
+- Mais tempo organizando o estudo do que realmente estudando
 
 ### Solução
 
-O PlanejAI é uma plataforma web que cria planos de estudo personalizados para concursos públicos.
+A PlanejAI é uma plataforma que cria planos de estudo personalizados para concursos públicos.
 
 O usuário informa:
 
-- Concurso desejado.
-- Data da prova.
-- Horas disponíveis por dia.
-- Nível de conhecimento em cada disciplina.
+- Concurso desejado
+- Data da prova
+- Horas disponíveis por dia
+- Nível de conhecimento em cada disciplina
 
-A plataforma gera automaticamente:
+A plataforma gera:
 
-- Cronograma diário.
-- Plano semanal.
-- Prioridades de estudo.
-- Revisões programadas.
-- Acompanhamento de progresso.
-- Indicador de preparação para a prova.
+- Cronograma diário
+- Plano semanal
+- Prioridades de estudo
+- Revisões programadas
+- Acompanhamento de progresso
+- Indicador de preparação para a prova
 
 ### Por que isso vale um negócio?
 
-Porque o concurseiro não está comprando um cronograma.
-
-Ele está comprando:
-
-- Mais produtividade.
-- Mais organização.
-- Mais confiança.
-- Maior probabilidade de aprovação.
+Porque o concurseiro está comprando: mais produtividade, mais organização, mais confiança e maior probabilidade de aprovação.
 
 O valor percebido é alto e o custo operacional do produto é baixo, criando potencial para receita recorrente através de assinatura mensal.
 
@@ -79,10 +70,6 @@ Estimativa:
 
 - 300 mil usuários.
 
-Ticket anual:
-
-- R$ 348 (R$ 29/mês).
-
 **SAM estimado:**
 
 R$ 104 milhões por ano.
@@ -111,79 +98,76 @@ R$ 313 mil por ano.
 
 ### Segmentos de Clientes
 
-- Concurseiros iniciantes.
-- Concurseiros intermediários.
-- Concurseiros avançados.
-- Pessoas que trabalham e estudam.
-- Estudantes universitários.
-- Profissionais buscando estabilidade.
+- Concurseiros iniciantes, intermediários e avançados
+- Pessoas que trabalham e estudam
+- Estudantes universitários
+- Profissionais buscando estabilidade
 
 ### Proposta de Valor
 
-- Plano de estudos personalizado.
-- Organização automática.
-- Revisões programadas.
-- Acompanhamento de desempenho.
-- Interface simples e objetiva.
+- Plano de estudos personalizado
+- Organização automática
+- Revisões programadas
+- Acompanhamento de desempenho
+- Interface simples e objetiva
 
 ### Canais
 
-- Instagram.
-- TikTok.
-- YouTube.
-- SEO.
-- Comunidades de concursos.
-- Parcerias com criadores de conteúdo.
+- Instagram
+- TikTok
+- YouTube
+- SEO
+- Comunidades de concursos
+- Parcerias com criadores de conteúdo
 
 ### Relacionamento com Clientes
 
-- Plataforma self-service.
-- E-mails automáticos.
-- Suporte por FAQ.
-- Base de conhecimento.
+- Plataforma "self-service"
+- E-mails automáticos
+- Suporte por FAQ
+- Base de conhecimento
 
 ### Fontes de Receita
 
-- Assinatura mensal R$ 19.
-- Assinatura mensal R$ 29.
-- Futuros planos anuais.
+- Assinatura mensal: R$ 19 e R$ 29
+- Futuros planos anuais
 
 ### Recursos-Chave
 
-- Plataforma web.
-- Algoritmo de planejamento.
-- Base de conteúdos resumidos.
-- Banco de usuários.
+- Plataforma web
+- Algoritmo de planejamento
+- Base de conteúdos resumidos
+- Banco de usuários
 
 ### Atividades-Chave
 
-- Desenvolvimento da plataforma.
-- Melhoria dos algoritmos.
-- Criação de conteúdo.
-- Aquisição de usuários.
+- Desenvolvimento da plataforma
+- Melhoria dos algoritmos
+- Criação de conteúdo
+- Aquisição de usuários
 
 ### Parceiros-Chave
 
-- Plataformas de hospedagem.
-- Ferramentas de autenticação.
-- Criadores de conteúdo do nicho.
-- Ferramentas de pagamento.
+- Plataformas de hospedagem
+- Ferramentas de autenticação
+- Criadores de conteúdo do nicho
+- Ferramentas de pagamento
 
 ### Estrutura de Custos
 
-- Infraestrutura.
-- Banco de dados.
-- Hospedagem.
-- Desenvolvimento.
-- Marketing.
+- Infraestrutura
+- Banco de dados
+- Hospedagem
+- Desenvolvimento
+- Marketing
 
 ---
 
-# 3 – Tese que o MVP Testa e o que Ficou Manual de Propósito
+# 3 – Tese que o MVP Testa e o que ficou Manual de Propósito
 
 ## Tese Principal
 
-Concurseiros estão dispostos a pagar uma assinatura mensal para terceirizar o planejamento dos estudos e acompanhar sua evolução.
+Concurseiros estão dispostos a pagar uma assinatura mensal para o planejamento dos estudos e acompanhar sua evolução.
 
 ---
 
@@ -217,14 +201,12 @@ Para acelerar o desenvolvimento e reduzir custo:
 
 ### Não será implementado inicialmente
 
-- Chat com IA.
-- Banco próprio de questões.
-- Simulados.
-- Aplicativo mobile.
-- Gamificação.
-- Comunidade.
-- Ranking.
-- Integrações externas complexas.
+- Chat com IA
+- Banco próprio de questões
+- Simulados
+- Comunidade
+- Ranking
+- Integrações externas complexas
 
 ### Justificativa
 
@@ -232,9 +214,7 @@ Nenhuma dessas funcionalidades é necessária para validar a proposta principal:
 
 > O usuário pagaria por um planejamento inteligente de estudos?
 
-Primeiro validamos a dor.
-
-Depois adicionamos complexidade.
+Primeiro validamos a dor. Depois adicionamos complexidade.
 
 ---
 
@@ -242,6 +222,7 @@ Depois adicionamos complexidade.
 
 ## Objetivo do Projeto
 
+```txt
 Criar uma plataforma SaaS chamada PlanejAI destinada a concurseiros.
 
 A aplicação deve ser minimalista, rápida, intuitiva e focada exclusivamente em planejamento, revisão e acompanhamento dos estudos.
@@ -464,9 +445,9 @@ Focar exclusivamente em:
 4. Evolução do aluno.
 
 O objetivo é lançar uma versão funcional o mais rápido possível para validar interesse real dos usuários.
-
+```
 ---
 
 # 5 – Link de Acesso
 
-A ser preenchido após publicação da aplicação.
+https://planejaiconcursos.lovable.app
